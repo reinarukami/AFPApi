@@ -1,0 +1,13 @@
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\bin\Debug\netcoreapp2.1\AFPApi.deps.json
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\bin\Debug\netcoreapp2.1\AFPApi.runtimeconfig.json
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\bin\Debug\netcoreapp2.1\AFPApi.runtimeconfig.dev.json
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\bin\Debug\netcoreapp2.1\AFPApi.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\bin\Debug\netcoreapp2.1\AFPApi.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\obj\Debug\netcoreapp2.1\AFPApi.csproj.CoreCompileInputs.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\obj\Debug\netcoreapp2.1\AFPApi.RazorAssemblyInfo.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\obj\Debug\netcoreapp2.1\AFPApi.RazorAssemblyInfo.cs
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\obj\Debug\netcoreapp2.1\AFPApi.AssemblyInfoInputs.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\obj\Debug\netcoreapp2.1\AFPApi.AssemblyInfo.cs
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\obj\Debug\netcoreapp2.1\AFPApi.RazorTargetAssemblyInfo.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\obj\Debug\netcoreapp2.1\AFPApi.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\AFPApi\AFPApi\obj\Debug\netcoreapp2.1\AFPApi.pdb
